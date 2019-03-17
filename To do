@@ -1,0 +1,36 @@
+#Content
+- Necessary helping tools
+  - Jupyter Notebook (for data exploration and testing the code)
+  - Google colab (jupyter notebook with free GPU)
+  - Kaggle (Free datasets, problems with solutions, free GPU and rich data science/ML community)
+  - Google cloud platform
+  - Github (for managing projects and getting already implemented models/code by researchers )
+- Basic Programming
+  - A Language- Python
+  - Data structure (Lists, tuple, strings ,dictionaries)
+  - Methods/ Function 
+  - Algorithms
+  - OOP
+-Installing and managing packages
+  - Pip
+  - Conda
+  - Setup tools
+- Library for data handling
+  - Numpy
+  - Pandas
+  - Re
+- Visualisation libraries
+  - Matplotlib
+  - Seaborn
+- Machine learning libraries
+  - Sklearn
+  - Tensorflow
+- Other important things for real life projects
+  - Basic database knowledge (SQL, Nosql)
+  - Hadoop
+  - Spark
+- Basic tool for webapp development
+  - Flask
+  - Djengo
+  - Online cloud platforms (AWS, GCP, Azure)
+  - Docker (Packaging and deployment ) 
