@@ -1,4 +1,4 @@
-# Study-material
+# Learning Path
 All material will be posted here
 
 Learning seems to be an highly iterative process to me, it is quite often random to get along and wrap your head around new concepts, ideas in one go. So a learner shouldn’t get disheartened if some things come along in one go. 
