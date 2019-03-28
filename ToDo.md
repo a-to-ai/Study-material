@@ -1,4 +1,4 @@
-#Content
+# Content
 - Necessary helping tools
   - Jupyter Notebook (for data exploration and testing the code)
   - Google colab (jupyter notebook with free GPU)
