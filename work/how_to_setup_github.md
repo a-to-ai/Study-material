@@ -9,10 +9,10 @@ If you want to understand how git works please watch some youtube video
 2. configure git
 setup username and email id and remote repository where you wanna work.
 	- `git config --global user.name = 'your git username'`
-	- `git config --global user.email = 'your git email id'
-	- `git config --global core.editor 'vim' # other options 'nano', 'emacs'
+	- `git config --global user.email = 'your git email id'`
+	- `git config --global core.editor 'vim'` # other options 'nano', 'emacs'
 3. add remote origin
-	- `git remote add origin https://github.com/a-to-ai/Study-material.git
+	- `git remote add origin https://github.com/a-to-ai/Study-material.git`
 
 4. pull request
 always pull origin first before start working on your local system
