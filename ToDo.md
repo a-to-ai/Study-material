@@ -1,4 +1,4 @@
-#Content
+# Content
 - Necessary helping tools
   - Jupyter Notebook (for data exploration and testing the code)
   - Google colab (jupyter notebook with free GPU)
@@ -7,11 +7,14 @@
   - Github (for managing projects and getting already implemented models/code by researchers )
 - Basic Programming
   - A Language- Python
-  - Data structure (Lists, tuple, strings ,dictionaries)
-  - Methods/ Function 
+  - Data structure (Lists, tuple, strings ,dictionaries)  
   - Algorithms
   - OOP
--Installing and managing packages
+- python standerd libraries
+  - sys (controling local machine)
+  - datetime
+  - BeautifulSoup
+- Installing and managing packages
   - Pip
   - Conda
   - Setup tools
@@ -24,7 +27,12 @@
   - Seaborn
 - Machine learning libraries
   - Sklearn
-  - Tensorflow
+  - keras
+  - Tensorflow or Pytorch
+- Web/server related libraries
+  - requests
+  - SQLAlchemy (conncting to SQL server and run queries)
+  - Scrapy
 - Other important things for real life projects
   - Basic database knowledge (SQL, Nosql)
   - Hadoop
