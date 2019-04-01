@@ -12,7 +12,8 @@
   - OOP
 - python standerd libraries
   - sys (controling local machine)
-  - datetime  
+  - datetime
+  - BeautifulSoup
 - Installing and managing packages
   - Pip
   - Conda
@@ -29,7 +30,7 @@
   - keras
   - Tensorflow or Pytorch
 - Web/server related libraries
-  - request
+  - requests
   - SQLAlchemy (conncting to SQL server and run queries)
   - Scrapy
 - Other important things for real life projects
