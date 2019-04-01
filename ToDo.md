@@ -10,8 +10,9 @@
   - Data structure (Lists, tuple, strings ,dictionaries)  
   - Algorithms
   - OOP
-- Basic python libraries
-  - 
+- python standerd libraries
+  - sys (controling local machine)
+  - datetime  
 - Installing and managing packages
   - Pip
   - Conda
